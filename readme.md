@@ -1,5 +1,4 @@
-# 💻Projeto: Delícias da Dika Cakes
-><p>Meu primeiro portifólio</p>
+# 💻Projeto: Meu primeiro portifólio
 <h3>Projeto feito com HTML, CSS e JS puro!<h3>
 
 ### 🚀Começando
